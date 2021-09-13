@@ -693,6 +693,11 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+		.image.prof {
+			display: block;
+			margin: 2.5rem 0;
+			width: 100%;
+		}
 
 		.image.main {
 			display: block;
