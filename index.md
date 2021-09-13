@@ -25,16 +25,14 @@
 						<div class="content">
 							<div class="inner">
 								<h1>Kat Pompermayer</h1>
-								<p>Hello! I am a Barnard College Senior originally from Seattle, Washington. I'm an aspiring product manager.   
-
-									I am a jazz pianist and I enjoy performing with other musicians of all skill levels. I am dually enrolled at the Manhattan School of Music in the jazz program.</p>
+								<!-- <p>Computer scientist, musician, aspiring product manager </p> -->
 							</div>
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#intro">Intro</a></li>
+								<li><a href="#intro">About</a></li>
 								<li><a href="#work">Resume</a></li>
-								<li><a href="#work">Technical Projects</a></li>
+								<li><a href="#works">Technical Projects</a></li>
 								<li><a href="#about">Music</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
@@ -46,27 +44,47 @@
 					<div id="main">
 
 						<!-- Intro -->
-							<article id="intro">
-								<h2 class="major">Intro</h2>
-								<span class="image main"><img src="images/gig.jpg" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-							</article>
+						<article id="intro">
+							<h2 class="major">About</h2>
+							<span class="image left"><img src="images/kat.jpg" width="50%" height="50%" /></span>
+							<p>I am a Barnard College Senior originally from Seattle, Washington. I'm an aspiring product manager.   
+
+								I am a jazz pianist and I enjoy performing with other musicians of all skill levels. I am dually enrolled at the Manhattan School of Music in the jazz program.</p>
+						</article>
 
 						<!-- Work -->
 							<article id="work">
-								<h2 class="major">Work</h2>
-								<span class="image main"><img src="images/gig.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<h2 class="major">Resume</h2>
+								<span class="image main"><img src="images/resume.jpg" alt="" /></span>
 							</article>
 
 						<!-- About -->
-							<article id="about">
-								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
-								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
+							<article id="works">
+								<h2 class="major">Technical Projects</h2>
+								<h3> The interface of the WebAudio Drum Machine</h3>
+								<span class="image main"><img src="images/interface.jpg" alt="" /></span>
+								<p><a href="http://161.35.14.211">WebAudio Drum Machine</a>	
+								<h4> Poster Session: </h3>	
+								<span class="image main"><img src="images/sri.jpg" alt="" /></span>						
+								</p>
 							</article>
+
+
+						<!-- Music -->
+						<article id="about">
+							<h2 class="major">Music</h2>
+							<h3>At Bear Creek Recording Studio, Washington</h3>
+							<span class="image main"><img src="images/gig.jpg" width="50%" height="50%" /></span>
+							<span class="image main"><img src="images/b.jpg" width="50%" height="50%" /></span>
+							<h4>Show at Columbia University</h4>
+							<span class="image main"><img src="images/chky.jpg" width="50%" height="50%" /></span>
+							<span class="image main"><img src="images/crowd.jpg" width="50%" height="50%" /></span>
+							<h5> At Recording Studio in Seattle</h5>
+							<span class="image main"><img src="images/record.jpg" width="50%" height="50%" /></span>
+							<span class="image main left"><img src="images/play.jpg" width="50%" height="50%" /></span>
+							<span class="image main right"><img src="images/me.jpg" width="50%" height="50%" /></span>
+							<p></p>
+						</article>
 
 						<!-- Contact -->
 							<article id="contact">
@@ -91,12 +109,11 @@
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
+								<!--
 								<ul class="icons">
-									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
+								-->
 							</article>
 
 						<!-- Elements -->
@@ -345,7 +362,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						<p class="copyright">&copy; Kat Pompermayer 2021. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
 					</footer>
 
 			</div>
