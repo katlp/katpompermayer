@@ -47,7 +47,7 @@
 						<article id="intro">
 							<h2 class="major">About</h2>
 							<span class="image left"><img src="images/kat.jpg" width="50%" height="50%" /></span>
-							<p>I am a Barnard College Senior originally from Seattle, Washington. I'm an aspiring product manager.   
+							<p>I am a senior at Barnard College originally from Seattle, Washington. I'm an aspiring product manager.   
 
 								I am a jazz pianist and I enjoy performing with other musicians of all skill levels. I am dually enrolled at the Manhattan School of Music in the jazz program.</p>
 						</article>
@@ -64,8 +64,8 @@
 								<h3> The interface of the WebAudio Drum Machine</h3>
 								<span class="image main"><img src="images/interface.jpg" alt="" /></span>
 								<p><a href="http://161.35.14.211">WebAudio Drum Machine</a>	
-								<h4> Poster Session: </h3>	
-								<span class="image main"><img src="images/sri.jpg" alt="" /></span>						
+								<h4> Poster Session at Barnard Summer Research Institute 2021 </h3>	
+								<span class="image main"><img src="images/sri3.jpg" alt="" /></span>						
 								</p>
 							</article>
 
@@ -73,13 +73,13 @@
 						<!-- Music -->
 						<article id="about">
 							<h2 class="major">Music</h2>
-							<h3>At Bear Creek Recording Studio, Washington</h3>
+							<h3>Bear Creek Recording Studio, Washington</h3>
 							<span class="image main"><img src="images/gig.jpg" width="50%" height="50%" /></span>
 							<span class="image main"><img src="images/b.jpg" width="50%" height="50%" /></span>
 							<h4>Show at Columbia University</h4>
 							<span class="image main"><img src="images/chky.jpg" width="50%" height="50%" /></span>
 							<span class="image main"><img src="images/crowd.jpg" width="50%" height="50%" /></span>
-							<h5> At Recording Studio in Seattle</h5>
+							<h5> Recording Studio, Seattle</h5>
 							<span class="image main"><img src="images/record.jpg" width="50%" height="50%" /></span>
 							<span class="image main left"><img src="images/play.jpg" width="50%" height="50%" /></span>
 							<span class="image main right"><img src="images/me.jpg" width="50%" height="50%" /></span>
@@ -316,7 +316,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 											</div>
 											<div class="field half">
 												<label for="demo-email">Email</label>
-												<input type="email" name="demo-email" id="demo-email" value="" placeholder="jane@untitled.tld" />
+												<input type="email" name="demo-email" id="demo-email" value="" placeholder="katpomp1@gmail.com" />
 											</div>
 											<div class="field">
 												<label for="demo-category">Category</label>
