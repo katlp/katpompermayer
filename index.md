@@ -30,10 +30,10 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#intro">About</a></li>
-								<li><a href="#work">Resume</a></li>
-								<li><a href="#works">Technical Projects</a></li>
-								<li><a href="#about">Music</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#resume">Resume</a></li>
+								<li><a href="#tech">Technical Projects</a></li>
+								<li><a href="#music">Music</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
@@ -44,7 +44,7 @@
 					<div id="main">
 
 						<!-- Intro -->
-						<article id="intro">
+						<article id="about">
 							<h2 class="major">About</h2>
 							<span class="image left"><img src="images/kat.jpg" width="50%" height="50%" /></span>
 							<p>I am a senior at Barnard College originally from Seattle, Washington. I'm an aspiring product manager.   
@@ -53,13 +53,13 @@
 						</article>
 
 						<!-- Work -->
-							<article id="work">
+							<article id="resume">
 								<h2 class="major">Resume</h2>
 								<span class="image main"><img src="images/resume.jpg" alt="" /></span>
 							</article>
 
 						<!-- About -->
-							<article id="works">
+							<article id="tech">
 								<h2 class="major">Technical Projects</h2>
 								<h3> The interface of the WebAudio Drum Machine</h3>
 								<span class="image main"><img src="images/interface.jpg" alt="" /></span>
@@ -71,7 +71,7 @@
 
 
 						<!-- Music -->
-						<article id="about">
+						<article id="music">
 							<h2 class="major">Music</h2>
 							<h3>Bear Creek Recording Studio, Washington</h3>
 							<span class="image main"><img src="images/gig.jpg" width="50%" height="50%" /></span>
