@@ -88,7 +88,7 @@
 						 Contact
 							<article id="contact">
 								<h2 class="major">Contact</h2>
-								<form method="post" action="https://formsubmit.co/katpomp1@gmail.com">
+								<form method="post" action="#">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
