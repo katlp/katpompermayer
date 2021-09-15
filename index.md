@@ -34,7 +34,7 @@
 								<li><a href="#resume">Resume</a></li>
 								<li><a href="#tech">Technical Projects</a></li>
 								<li><a href="#music">Music</a></li>
-								<li><a href="#contact">Contact</a></li>
+								<li><a href="#video">Video</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
 							</ul>
 						</nav>
@@ -47,7 +47,7 @@
 						<article id="about">
 							<h2 class="major">About</h2>
 							<span class="image left"><img src="images/kat.jpg" width="50%" height="50%" /></span>
-							<p>I am a senior at Barnard College originally from Seattle, Washington. I'm an aspiring product manager.   
+							<p>I am a current senior studying computer science and music at Barnard College. I am originally from Seattle, Washington. I'm an aspiring product manager.   
 
 								I am a jazz pianist and I enjoy performing with other musicians of all skill levels. I am dually enrolled at the Manhattan School of Music in the jazz program.</p>
 						</article>
@@ -85,6 +85,22 @@
 							<span class="image main right"><img src="images/me.jpg" width="50%" height="50%" /></span>
 							<p></p>
 						</article>
+						
+						<!-- Video -->
+						<article id="video">
+							<h2 class="major">Videos</h2>
+							<h3> Recording at Studio in Seattle</h3>
+							<br />
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/GVHJBLayHfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      						</iframe>
+							<h3> Performing in Seattle</h3>
+							<br />
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/4XkAE_F-4Ss?start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							</p>
+						</article>
+
+
+						<!--
 						 Contact
 							<article id="contact">
 								<h2 class="major">Contact</h2>
@@ -108,6 +124,7 @@
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
+								-->
 
 								<!--
 								<ul class="icons">
