@@ -85,11 +85,10 @@
 							<span class="image main right"><img src="images/me.jpg" width="50%" height="50%" /></span>
 							<p></p>
 						</article>
-
-						<!-- Contact -->
+						 Contact
 							<article id="contact">
 								<h2 class="major">Contact</h2>
-								<form method="post" action="#">
+								<form method="post" action="https://formsubmit.co/katpomp1@gmail.com">
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Name</label>
@@ -109,12 +108,13 @@
 										<li><input type="reset" value="Reset" /></li>
 									</ul>
 								</form>
+
 								<!--
 								<ul class="icons">
 									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
 								</ul>
-								-->
 							</article>
+						-->
 
 						<!-- Elements -->
 							<article id="elements">
