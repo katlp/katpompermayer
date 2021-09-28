@@ -1,3 +1,3 @@
 # website
 
-https://katlp.github.io/katpompermayer/
+http://katpompermayer.com/
