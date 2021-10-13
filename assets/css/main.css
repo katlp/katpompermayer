@@ -664,6 +664,12 @@ input, select, textarea {
 			display: block;
 		}
 
+		.image center {
+			margin: auto;
+			width: 30%;
+			padding: 10px;
+		  }
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
